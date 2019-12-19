@@ -1,0 +1,6 @@
+{
+    "board": "espressif:esp32:esp32",
+    "port": "COM7",
+    "sketch": "sketch_dec17a.ino",
+    "configuration": "PSRAM=enabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=40,FlashSize=4M,UploadSpeed=921600,DebugLevel=none"
+}

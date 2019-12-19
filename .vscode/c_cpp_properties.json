@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\hardware\\espressif\\esp32\\**",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\esp32-sh1106-oled-master",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\OLED_SSD1306_-_SH1106\\src",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\Adafruit_SSD1306",
+                "C:\\Users\\MEGUMI\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library",
+                "C:\\Users\\MEGUMI\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\MEGUMI\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.2\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
